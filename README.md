@@ -2,4 +2,4 @@
 
 -[Readings](https://github.com/GerardStarling/digital-writing-folio/blob/main/readings)
 
--[Exercises](exercises.md)
+-[Exercises](https://github.com/GerardStarling/digital-writing-folio/blob/main/exercises)
