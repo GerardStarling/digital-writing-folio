@@ -1,3 +1,3 @@
 ## Digital Writing Folio
 
--[Readings](Readings.md)
+-[Readings](readings.md)
