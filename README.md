@@ -1,5 +1,5 @@
 ## Digital Writing Folio
 
--[Readings](readings.md)
+-[Readings](https://github.com/GerardStarling/digital-writing-folio/blob/main/readings)
 
 -[Exercises](exercises.md)
