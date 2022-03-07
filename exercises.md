@@ -35,3 +35,12 @@ Electronic literature is not restricted by page margins or static text. As softw
  #### What are some of the qualities of electronic literature? 
 
 As mentioned before, electronic works are not confined to physical page boundaries. texts can ascend from the conventions of left to right (of the english language), and travel in any direction. It can also exist in many different visual forms.
+
+
+#### Taroko Gorge Remix Exercise - Flourish Klink version
+
+#### - What aspects of the remix are the same?
+
+#### - What aspects of the remix are different?
+
+#### - Is the remix successful (why or why not)?
