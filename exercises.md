@@ -50,5 +50,6 @@ The background colours are different. The bright orange background of the Flouri
 
 #### - Is the remix successful (why or why not)?
 
-The colour green of the background was one of the main techniques used to symbolise the natural setting of Taroko Gorge. Replacing this colour with orange may be trying to convey Taroko Gorge at sunset, but makes it very hard to engage with as the colour is so intense.(Perhaps the Orange background is referring to the play on words of the title "Fred & George", which is reffering to the orange hair of these characters ?)
- I don't think this version captures or enhances the original intent of Nick Montfort's original. 
+The colour green of the background was one of the main techniques used to symbolise the natural setting of Taroko Gorge. Replacing this colour with orange may be trying to convey Taroko Gorge at sunset, but makes it very hard to engage with as the colour is so intense.
+(Perhaps the orange background is referring to the play on words of the title "Fred & George", which is referring to the orange hair of these characters ?)
+I don't think this version captures or enhances the original intent of Nick Montfort's original. 
