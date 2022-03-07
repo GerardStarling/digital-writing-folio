@@ -41,6 +41,12 @@ As mentioned before, electronic works are not confined to physical page boundari
 
 #### - What aspects of the remix are the same?
 
+The speed of the text transitions appear to be the same. The text itself appears to share the same source
+
 #### - What aspects of the remix are different?
 
+The background colours are different. The bright orange background of the Flourish Klink version is alot harsher and harder to focus on.
+
 #### - Is the remix successful (why or why not)?
+
+the colour green of the background was one of the main techniques used to symbolise the natural setting of Taroko Gorge. Replacing this colour with orange may be trying to symbolise Taroko Gorge at sunset, but makes it very hard to engage with, as the colour is so intense. I don't think this version captures or enhances the original intent of Nick Montfort's original
