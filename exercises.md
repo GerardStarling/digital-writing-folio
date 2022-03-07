@@ -30,7 +30,7 @@ By writing in a book by hand, I have time to process the sentence as it is const
 
  #### How is electronic literature different from print literature?
 
-Electronic literature is not restricted by page margins or static text. As software and hardware is everchanging, the works can be temporal. Electronic literature seems to be self published alot of the time, so it is not adhering to literary trends or kept beyond the firewall of publishing houses, as much as print based lit is.
+Electronic literature is not restricted by page margins or static text. As software and hardware is everchanging, the works can be temporal. Electronic literature seems to be self published alot of the time, so it is not adhering to literary trends or gate kept by publishing houses like print based lit is.
 
  #### What are some of the qualities of electronic literature? 
 
