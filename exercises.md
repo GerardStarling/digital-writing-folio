@@ -37,7 +37,8 @@ Electronic literature is not restricted by page margins or static text. As softw
 As mentioned before, electronic works are not confined to physical page boundaries. texts can ascend from the conventions of left to right (of the english language), and travel in any direction. It can also exist in many different visual forms.
 
 
-#### Taroko Gorge Remixes [Fred & George - Flourish Klink](https://nickm.com/taroko_gorge/fred_and_george/) 
+#### Taroko Gorge Remixes:
+[Fred & George - Flourish Klink](https://nickm.com/taroko_gorge/fred_and_george/) 
 
 #### - What aspects of the remix are the same?
 
