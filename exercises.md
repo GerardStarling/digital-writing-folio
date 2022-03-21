@@ -52,3 +52,8 @@ The background colours are different. The bright orange background of the Flouri
 
 The colour green of the background was one of the main techniques used to symbolise the natural setting of Taroko Gorge. Replacing this colour with orange is an embelishment of the play on words of the title "Fred & George", which is referring to the orange hair of these characters ?)
 I don't think this version captures or enhances the intent of Nick Montfort's original, but it is humorous
+
+## Week 4
+
+#### We Walk To You Remix - "We Sit Down Where We Can"
+https://abrasive-pretty-sesame.glitch.me/
