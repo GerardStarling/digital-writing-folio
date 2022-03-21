@@ -55,8 +55,8 @@ I don't think this version captures or enhances the intent of Nick Montfort's or
 
 ## Week 4
 
-#### We Walk To You Remix - "We Sit Down Where We Can"
+#### We Walk To You Remix 
 [We Sit Down Where We Can](https://abrasive-pretty-sesame.glitch.me/)
 
-#### Taroko Gorge Remix - "Smoko Gaz" 
+#### Taroko Gorge Remix 
 [Smoko Gaz](https://classic-versed-battery.glitch.me)
