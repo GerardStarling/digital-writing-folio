@@ -65,7 +65,7 @@ I don't think this version captures or enhances the intent of Nick Montfort's or
 
 #### Basic Website Design
 
-[Gerard Starling(https://gerardstarling.github.io/)
+[Gerard Starling](https://gerardstarling.github.io/)
 
 #### Twine Excercise 
 
