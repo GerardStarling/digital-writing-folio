@@ -75,11 +75,11 @@ I don't think this version captures or enhances the intent of Nick Montfort's or
 
 #### Twine Exercise update
 
-[Sleep]((https://friendly-stroopwafel-29db25.netlify.app))
+[Sleep](https://friendly-stroopwafel-29db25.netlify.app))
 
 #### Inform 7 Excercise
 
-[Peak Hour]((https://mellow-croquembouche-8af1c1.netlify.app))
+[Peak Hour](https://mellow-croquembouche-8af1c1.netlify.app))
 
 #### Bitsy Example
 
