@@ -70,3 +70,17 @@ I don't think this version captures or enhances the intent of Nick Montfort's or
 #### Twine Excercise 
 
 [Sleep](https://friendly-stroopwafel-29db25.netlify.app/)
+
+## Week 5
+
+#### Twine Exercise update
+
+[Sleep]((https://friendly-stroopwafel-29db25.netlify.app))
+
+#### Inform 7 Excercise
+
+[Peak Hour]((https://mellow-croquembouche-8af1c1.netlify.app))
+
+#### Bitsy Example
+
+[Bitsy Example](https://courageous-pixie-c6363b.netlify.app) This link didn't work
