@@ -79,7 +79,7 @@ I don't think this version captures or enhances the intent of Nick Montfort's or
 
 #### Inform 7 Excercise
 
-[Peak Hour](https://mellow-croquembouche-8af1c1.netlify.app)
+[Peak Hour](https://mellow-capybara-7cd3b6.netlify.app/)
 
 #### Bitsy Example
 
